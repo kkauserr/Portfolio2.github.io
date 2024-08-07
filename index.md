@@ -1,123 +1,77 @@
----
-layout: default
----
+# KJ
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Education
+Arizona State University, Tempe, AZ
+* Bachelor’s in Computer Science (Honors), Minor in Business Expected Graduation
+> Expected Graduation: May 2026
+> 
+> GPA: 3.88
 
-[Link to another page](./another-page.html).
+## Skills
+* Programming Languages: Java, C, C++, HTML, CSS SQL, p5js, QBASIC, GWBASIC
+* Tools: Eclipse, Linux Operating System, Git, MATLAB, IntelliJ, Replit, MS Office, Adobe, WordPress, BlueJ
 
-There should be whitespace between paragraphs.
+## Work Experience
+#### Peer Outreach Coordinator @ School of Computing and Augmented Intelligence (_Nov 2023 - Present_)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Achieved a 30% increase in program participation through targeted communication strategies.
+* Managed a 18-member volunteer team, coordinating events with a 95% task completion rate while improving team
+cohesion.
 
-# Header 1
+#### Writing Tutor @ Academic Support Network (_Jan 2024 - Present_)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)
+* Leading weekly lab sessions for a group of 40 students, which improved lab scores with many reporting increased
+comprehension and engagement during lab sessions.
+* Providing insightful information leading to the adoption of more interesting teaching methods and an overall
+improvement in student learning outcomes by 30%.
 
-## Header 2
+#### Tutor @ I-Learn Educational Institute Training and Development (_June 2021 - Aug 2021_)
+* Remedial Classes Tutor for 11th graders on the Basics of Computer science and Introduction to Java.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### Student Worker @ Aramark (Starbucks) (_Sept 2022 - Sept 2023_)
+* Recognized as "Employee of the Month" 2 times in recognition of exceptional performance, teamwork, and dedication
+to delivering top-tier service in a fast-paced environment.
+* Provided exceptional customer service and resolved customer complaints and issues promptly, resulting in a 47%
+decrease in customer dissatisfaction incidents.
 
-### Header 3
+## Projects
+#### stupid.os: File System
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Engineered robust prototype demonstrating the idea of linked file allocation while prompting the user 5 options, to
+either add, delete or display file name with size.
+* Architected and implemented a file management system using C++, leveraging Linked Lists, Templated Class and
+Queues to optimize data handling and storage efficiency.
 
 
-### Definition lists can be used with HTML syntax.
+#### Devpost Hackathon 2023
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Spearheaded a team of 4 in the development of an AI-powered pet widget employing Python and TensorFlowto offer
+study reminders, motivational affirmations, and intelligent task management through a gamified UX design.
+* Implemented the virtual AI companion using React for frontend development and Node.js for backend integration, that
+assists students with arithmetic through adaptive learning models for enhanced academic engagement.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+#### WORDLE 2.0: Honors Project
 
-```
-The final element.
-```
+* Led a team of 5 to develop a word guessing game aimed at enhancing vocabulary and cognitive abilities.
+* Integrated ANSI color codes and proficiently managed text files, employing advanced object-oriented programming
+techniques to ensure interactive guessing functionality and efficient randomization.
+* Applied expertise in encapsulation, algorithms, and data structures to optimize user engagement.
+
+
+#### Sparky's Game: Fine Motor Skills for Paralytic Patients
+
+* Conceived Sparky’s Game on Replit, housing motor skills-focused games tailored for individuals with paralysis.  
+* Executed via p5js, harnessing inherent libraries for end-to-end game design encompassing theme creation, audio-visual feedback, 
+interactive components, progressive difficulty, and seamless keyboard-mouse controls.
+
+## Volunteer Experience
+#### Fulton Ambassador (_Nov 2023 - Present_)
+
+* Spearheaded recruitment efforts that led to 20% increase in the number of participants of Fulton Ambassador program.
+* Organized and carried out 8 fruitful community service projects that benefited more than 200 people in the community.
+
+#### Barrett Peer Mentor (_Aug 2023 - Dec 2023_)
+
+* Representing the Barrett community and mentoring 13 freshmen in their transition to college.
+* Reportedly, 90% of students experienced an increase in their GPA, thereby boosting the retention rate
