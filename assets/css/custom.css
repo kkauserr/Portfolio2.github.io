@@ -1,5 +1,10 @@
 
 #logo {
-    height: 50px;  /* Adjust the height as necessary */
-    width: auto;  /* Keeps the aspect ratio intact */
+    display: flex;
+    align-items: center; /* Centers the logo and text vertically */
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #ffffff; /* Adjust text color as needed */
+}
+#logo img{
+    margin-right: 10px;
 }
