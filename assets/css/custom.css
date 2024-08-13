@@ -1,9 +1,9 @@
 
 #logo {
 display: flex;
-    align-items: center; /* Centers the logo and text vertically */
-    font-size: 24px; /* Adjust the font size as needed */
-    color: #ffffff; /* Adjust text color as needed */
+    align-items: center; 
+    font-size: 24px; 
+    color: #ffffff; 
 }
 #logo img {
      margin-right: 10px;
