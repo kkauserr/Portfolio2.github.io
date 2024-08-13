@@ -8,8 +8,7 @@
 #logo img{
     margin-right: 10px;
 }
-span{
-    font-size: 24px;  
-    color: #a4e666;  
-    font-weight: bold;
+.title-name {
+    color: conifer;  /* Specific color */
+    font-size: 24px;  /* Specific size */
 }
