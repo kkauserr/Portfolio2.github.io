@@ -8,8 +8,3 @@ display: flex;
 #logo img {
      margin-right: 10px;
 }
-#logo + span {  
-    font-size: 24px;  
-    color: #a4e666;  
-    font-weight: bold; 
-}
