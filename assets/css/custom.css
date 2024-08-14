@@ -1,11 +1,4 @@
 
-.container {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
-    flex-wrap: wrap; 
-}
-
 #a-title {
     display: flex;
     align-items: center; 
@@ -20,18 +13,8 @@
 
 .title-name {
     color: #a4de02 !important;
-    font-size: 24px;
+    font-size: 34px;
 }
 
-#downloads {
-    display: flex;
-    gap: 10px;
-}
 
-.btn {
-    background-color: #a4de02; 
-    color: black; /* Text color for buttons */
-    padding: 10px 20px; /* Padding inside each button */
-    text-decoration: none; /* Removes underline from links */
-    border-radius: 5px; /* Optional: Rounds the corners of the buttons */
-}
+
