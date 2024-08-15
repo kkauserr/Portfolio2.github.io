@@ -1,3 +1,4 @@
+<div id="typewriter" class="typewriter-text"></div>
 # KJ
 
 ## Education
