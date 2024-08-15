@@ -28,7 +28,7 @@
 
 @keyframes blink-caret {
     from, to { border-color: transparent }
-    50% { border-color: orange; }
+    50% { border-color: #a4de02; }
 }
 .typewriter-container {
     display: flex;
