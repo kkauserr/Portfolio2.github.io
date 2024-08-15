@@ -76,3 +76,5 @@ interactive components, progressive difficulty, and seamless keyboard-mouse cont
 
 * Representing the Barrett community and mentoring 13 freshmen in their transition to college.
 * Reportedly, 90% of students experienced an increase in their GPA, thereby boosting the retention rate
+
+<script src="/assets/js/typewriter.js"></script>
