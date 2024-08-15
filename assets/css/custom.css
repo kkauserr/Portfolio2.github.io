@@ -30,6 +30,19 @@
     from, to { border-color: transparent }
     50% { border-color: orange; }
 }
+.typewriter-container {
+    display: flex;
+    align-items: center;  /* Vertically aligns the items in the center */
+    justify-content: flex-start;  /* Aligns items to the start of the flex container */
+    gap: 20px;  /* Adds space between the image and the typewriter text */
+}
+
+.profile-pic {
+    width: 100px;  /* Adjust width as needed */
+    height: 100px;  /* Adjust height as needed */
+    border-radius: 50%;  /* Makes the image circular */
+    object-fit: cover;  /* Ensures the image covers the area without being stretched */
+}
 
 
 
