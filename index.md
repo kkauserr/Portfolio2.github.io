@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="/assets/css/custom.css">
 <div class="typewriter-container">
-    <img src="assests/images/ppfbw.png" alt="Your Name" class="profile-pic">
     <div id="typewriter" class="typewriter-text"></div>
 </div>
 
