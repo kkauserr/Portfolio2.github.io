@@ -32,17 +32,17 @@
 }
 .typewriter-container {
     display: flex;
-    align-items: center; 
+    align-items: center;
     justify-content: center;
     text-align: center;
-    gap: 20px;  /* Adds space between the image and the typewriter text */
+    gap: 20px;
 }
 
 .profile-pic {
-    width: 100px;  /* Adjust width as needed */
-    height: 100px;  /* Adjust height as needed */
-    border-radius: 50%;  /* Makes the image circular */
-    object-fit: cover;  /* Ensures the image covers the area without being stretched */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
 
