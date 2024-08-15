@@ -31,11 +31,14 @@
     50% { border-color: orange; }
 }
 .typewriter-container {
+    
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     gap: 20px;
+    height: 964.8px;
+    width: 618.8px;
 }
 
 .profile-pic {
