@@ -34,14 +34,14 @@
     display: flex;
     align-items: center;  /* Vertically aligns the items in the center */
     justify-content: center;
-    height: 50vh;
+    height: 20vh;
     text-align: center;
     gap: 20px;  /* Adds space between the image and the typewriter text */
 }
 
 .profile-pic {
-    width: 500px;  /* Adjust width as needed */
-    height: 500px;  /* Adjust height as needed */
+    width: 1000px;  /* Adjust width as needed */
+    height: 1000px;  /* Adjust height as needed */
     border-radius: 50%;  /* Makes the image circular */
     object-fit: cover;  /* Ensures the image covers the area without being stretched */
 }
