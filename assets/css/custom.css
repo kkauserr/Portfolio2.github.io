@@ -32,9 +32,10 @@
 }
 .typewriter-container {
     display: flex;
-    align-items: center;  /* Vertically aligns the items in the center */
+    align-items: center; 
+    flex-direction: column;
     justify-content: center;
-    height: 20vh;
+    height: 100vh;
     text-align: center;
     gap: 20px;  /* Adds space between the image and the typewriter text */
 }
