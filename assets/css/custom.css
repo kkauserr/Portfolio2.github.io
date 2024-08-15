@@ -15,6 +15,21 @@
     color: #a4de02 !important;
     font-size: 34px;
 }
+.typewriter-text {
+    font-family: 'Courier New', monospace;
+    color: white;
+    font-size: 24px;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .15em solid orange; 
+    width: fit-content;
+    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+}
 
 
 
