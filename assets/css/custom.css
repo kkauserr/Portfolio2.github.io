@@ -21,7 +21,7 @@
     font-size: 24px;
     white-space: nowrap;
     overflow: hidden;
-    border-right: .15em solid orange; 
+    border-right: .15em solid conifer; 
     width: fit-content;
     animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
 }
