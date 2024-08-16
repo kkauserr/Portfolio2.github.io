@@ -34,11 +34,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 30vh;
     text-align: center;
     gap: 20px;
-    row-gap: ;
-    column-gap: 20px;
 }
 .profile-pic {
     width: 300px;
@@ -47,7 +45,7 @@
 }
 #main_content
 {
-    padding-top: 70px;
+    padding-top: 30px;
 }
 
 
